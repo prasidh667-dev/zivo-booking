@@ -1,0 +1,20 @@
+# Maven build output
+target/
+
+# Local database
+data/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+!env.example
+
+# IDE files
+.idea/
+*.iml
+
+# Log files
+*.log
+target/
+data/
